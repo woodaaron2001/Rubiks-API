@@ -8,7 +8,7 @@ Example: [Querying JPerm](https://rest-api-z7cayewqka-uc.a.run.app/v1/algorithm/
 
 # Query by category
 There are 4 categories available OLL, PLL, F2l, 2LOOK
-Example [Querying PLL(https://rest-api-z7cayewqka-uc.a.run.app/v1/algorithmCategory/PLL)
+Example [Querying PLL](https://rest-api-z7cayewqka-uc.a.run.app/v1/algorithmCategory/PLL)
 
 # Random OLL
 The Api also provides one random OLL a day from any OLL in the database. 
