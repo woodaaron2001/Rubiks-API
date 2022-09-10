@@ -1,6 +1,7 @@
 
 # Rubiks Api
-This is a small Api written in go to serve random algorithms for cubing
+This is a small Api written in go to serve random algorithms for cubing.
+Deployed using Cloud run and firestore
 
 # Query a specific algorithm
 There are over 100 algorithms stored in the database and all can be queried by their name
