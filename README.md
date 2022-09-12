@@ -5,7 +5,7 @@ Deployed using Cloud run and firestore
 
 # Query a specific algorithm
 There are over 100 algorithms stored in the database and all can be queried by their name
-Example: [Querying JPerm](https://rest-api-z7cayewqka-uc.a.run.app/v1/algorithm/JPerm)
+Example: [Querying JPerm](https://rest-api-z7cayewqka-uc.a.run.app/v1/algorithm/Ja - Perm)
 
 # Query by category
 There are 4 categories available OLL, PLL, F2l, 2LOOK
